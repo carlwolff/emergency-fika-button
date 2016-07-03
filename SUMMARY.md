@@ -1,5 +1,5 @@
 # Summary
 
 * Introduction
-* [Basics](prerequisites/mac.md)
+* [Basics](basics.md)
 
