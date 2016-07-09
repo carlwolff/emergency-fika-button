@@ -10,7 +10,7 @@ The ESP8266 v1 uses a USB-chip called CP2102 by SiLabs. It's straight forward to
 
 To verify installation, open `Device Manager` and unfold `Ports`.  If there's a notion of CP210x, then your driver is installed.
 
-# Install terminal for command input
+# Install Terminal for Command Input
 
 The NodeMCU firmware will provide us with a prompt (similar to DOS/Powershell) on the serial interface we just enabled. What we now need is a tool to display that prompt. To unify the experience in Windows/Mac/Linux we use [PlatformIO IDE](http://platformio.org/platformio-ide).
 
