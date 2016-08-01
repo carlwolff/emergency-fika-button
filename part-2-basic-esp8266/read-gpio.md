@@ -4,7 +4,7 @@ GPIO is a abbreviation for "General Purpose input/input" ([wiki](https://en.wiki
 
 The idea is that the microcontroller has pins which are available given that somebody makes sure to add this to the mainboard. GPIOs are awesome! It's a low-level connection all the way to the microcontroller which enables us to connect either a switch or a LED to a pin.
 
-The following image shows the all the pins of the ESP8266\. Note that some pins have a notion of "GPIO" but may as well have an extra box specifying pre-defined configuration (green) or alternative configuration (blue).
+The following image shows the all the pins of the ESP8266. Note that some pins have a notion of "GPIO" but may as well have an extra box specifying pre-defined configuration (green) or alternative configuration (blue).
 
 ![esp8266v1](http://cdn.frightanic.com/blog/wp-content/uploads/2015/09/esp8266-nodemcu-dev-kit-v1-pins.png)
 
