@@ -10,9 +10,11 @@ Hello World
 
 What we did was:
 
-1. Ask lua to concatenate the strings `Hello`, `<space>` and `World`.
+1. Ask lua to concatenate the three strings `Hello`, `<space>` and `World`.
 2. Tell lua that we want the result of the concatenated strings printed to screen
 
-# Gotchas
+---
+
+## Gotchas
 
 - Copy-n-paste to lua terminal over serial might break from time to time. Retry a couple of times if needed. When retrying, first get rid of double `>>`.
