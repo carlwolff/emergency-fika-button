@@ -67,7 +67,7 @@ $
 
 then it means that the command should be written at the command line prompt of your mac/linux/unix computer. If your running Windows, you _might_ be out of luck or on your own but I will do my best to cover this scenario as well.
 
---------------------------------------------------------------------------------
+---
 
 ## Gotchas
 
