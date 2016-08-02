@@ -67,7 +67,7 @@ GPIO5/D1 state is: 0
 GPIO5/D1 state is: 1
 ```
 
-Awesome! We're done here. (hint: press `<enter>` to get prepare for inputting the next command.
+Awesome! We're done here. (hint: press `<enter>` to get prepare for the input of next command.
 
 ---
 
